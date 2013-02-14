@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/media/home/savio/dev/projects'
+let g:netrw_dirhist_2='/media/home/savio/dev/projects/CVC'
+let g:netrw_dirhist_3='/media/home/savio/dev/projects/CVC/cvc'
+let g:netrw_dirhist_4='/media/home/savio/dev/projects/CVC'
+let g:netrw_dirhist_5='/media/home/savio/dev'
+let g:netrw_dirhist_6='/media/home/savio/dev/projects'
+let g:netrw_dirhist_7='/media/home/savio/dev/projects/mezzanine-master'
