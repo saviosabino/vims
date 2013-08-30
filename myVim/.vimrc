@@ -39,5 +39,5 @@ map <C-h> <C-w><Left>
 
 " Switch to alternate file
 map <C-n> :bnext<cr>
-map <C-p> :bprevious<cr>
+map <C-´> :bprevious<cr>
 
